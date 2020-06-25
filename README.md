@@ -16,9 +16,10 @@ This repository contains slides and code samples for a live presentation. Detail
 
 **Microsoft Docs Samples**
 * [Tutorial: Update interfaces with default interface methods in C# 8.0](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/default-interface-methods-versions)
-* [Tutorial: Mix functionality in when creating classes using interfaces with default interface methods](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/mixins-with-default-interface-methods)
+* [Tutorial: Mix functionality in when creating classes using interfaces with default interface methods](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/mixins-with-default-interface-methods)  
 
 **Additional Topics**  
 * [IEnumerable, ISaveable, IDontGetIt: Understanding C# Interfaces](http://www.jeremybytes.com/Demos.aspx#INT)  
 * [Explicit Interface Implementation](https://jeremybytes.blogspot.com/2012/03/explicit-interface-implementation.html)  
-* [Updating an Interface Implementation](https://jeremybytes.blogspot.com/2012/03/updating-interface-implementation.html) (prior to C# 8)
+* [Updating an Interface Implementation](https://jeremybytes.blogspot.com/2012/03/updating-interface-implementation.html) (prior to C# 8)  
+* [-main (C# Compiler Options)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/compiler-options/main-compiler-option) (how to specify the entry point if you have multiple "static Main()" methods in an application)

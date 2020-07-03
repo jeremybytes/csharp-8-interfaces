@@ -4,6 +4,10 @@ C# 8 brings new features to interfaces, including default implementation, access
 
 This repository contains slides and code samples for a live presentation. Details of the various topics can be found in the accompanying articles.
 
+**Videos:**  
+* [What's New in C# 8 Interfaces](https://www.youtube.com/watch?v=on-MIseN6gU) - Recorded Jun 24, 2020  
+(Southeast Valley .NET User Group & North West Valley .NET User Group)
+
 **Articles:**  
 * [A Closer Look at C# 8 Interfaces](https://jeremybytes.blogspot.com/2019/09/a-closer-look-at-c-8-interfaces.html)  
 * [Properties and Default Implementation](https://jeremybytes.blogspot.com/2019/09/c-8-interfaces-properties-and-default.html)  

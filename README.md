@@ -1,12 +1,13 @@
 What's New in C# 8 Interfaces (and how to use them effectively)
 -------------------
-C# 8 brings new features to interfaces, including default implementation, access modifiers, and static members. We'll look at these new features and see where they are useful and where they should be avoided. With some practical tips, "gotchas", and plenty of examples, we'll see how to use these features effectively in our code.
+C# 8 brings new features to interfaces, including default implementation, access modifiers, and static members. We'll look at these new features, and see where they are useful and where they should be avoided. The world of interfaces has changed; the line between interfaces and abstract classes has blurred; and C# now has multiple inheritance. With some practical tips, "gotchas", and plenty of examples, we'll see how to use these features effectively (and safely) in our code.  
 
 This repository contains slides and code samples for a live presentation. Details of the various topics can be found in the accompanying articles.
 
-**Videos:**  
-* [What's New in C# 8 Interfaces](https://www.youtube.com/watch?v=on-MIseN6gU) - Recorded Jun 24, 2020  
-(Southeast Valley .NET User Group & North West Valley .NET User Group)
+**Presentation Recordings:**  
+* [Tulsa .NET User Group](http://usergroup.tv/videos/whats-new-in-c-8-interfaces-and-how-to-use-them-effectively) - Recorded Jul 23, 2020  
+* [Southeast Valley .NET User Group & North West Valley .NET User Group](https://www.youtube.com/watch?v=on-MIseN6gU) - Recorded Jun 24, 2020  
+
 
 **Articles:**  
 * [A Closer Look at C# 8 Interfaces](https://jeremybytes.blogspot.com/2019/09/a-closer-look-at-c-8-interfaces.html)  

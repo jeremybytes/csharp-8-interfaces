@@ -27,4 +27,5 @@ This repository contains slides and code samples for a live presentation. Detail
 * [IEnumerable, ISaveable, IDontGetIt: Understanding C# Interfaces](http://www.jeremybytes.com/Demos.aspx#INT)  
 * [Explicit Interface Implementation](https://jeremybytes.blogspot.com/2012/03/explicit-interface-implementation.html)  
 * [Updating an Interface Implementation](https://jeremybytes.blogspot.com/2012/03/updating-interface-implementation.html) (prior to C# 8)  
+* [Misusing C#: Multiple Main() Methods](https://jeremybytes.blogspot.com/2020/06/misusing-c-multiple-main-methods.html)  
 * [-main (C# Compiler Options)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/compiler-options/main-compiler-option) (how to specify the entry point if you have multiple "static Main()" methods in an application)

@@ -10,6 +10,7 @@ This repository contains slides and code samples for a live presentation. Detail
 
 
 **Articles:**  
+* [Abstract Classes vs. Interfaces in C# - What You Know is Probably Wrong](https://jeremybytes.blogspot.com/2020/10/abstract-classes-vs-interfaces-in-c.html)  
 * [A Closer Look at C# 8 Interfaces](https://jeremybytes.blogspot.com/2019/09/a-closer-look-at-c-8-interfaces.html)  
 * [Properties and Default Implementation](https://jeremybytes.blogspot.com/2019/09/c-8-interfaces-properties-and-default.html)  
 * [Dangerous Assumptions in Default Implementation](https://jeremybytes.blogspot.com/2019/09/c-8-interfaces-dangerous-assumptions-in.html)  
